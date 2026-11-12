@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.zcode/
+
+# Build artifacts
+build/
+*.obj
+*.exe
+
+# Runtime settings
+autoclicker_settings.json
